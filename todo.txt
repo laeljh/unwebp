@@ -1,0 +1,3 @@
+-add a remove file from list
+-add a checkbox to select file overwrite or copy both (logic already in place)
+
