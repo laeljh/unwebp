@@ -1,5 +1,6 @@
 # unwebp
 An image converter between webp, png, jpg and jpeg 
+To run on windows download just unwebpGUI.exe
 
 # It's free, fully functional and simple and easy to use. 
 1. Select your file(s) path
